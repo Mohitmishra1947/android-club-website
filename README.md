@@ -77,3 +77,5 @@ Alternatively, use the **Live Server** extension in Visual Studio Code for a loc
 ---
 
 Developed with curiosity, creativity, and innovation.
+
+Updated project information
